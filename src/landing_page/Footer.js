@@ -13,49 +13,49 @@ function Footer() {
           </div>
           <div className="col">
             <p>Company</p>
-            <a href="">About</a>
+            <a href="/about">About</a>
             <br />
-            <a href="">Philosophy</a>
+            <a href="https://zerodha.com/about/philosophy/">Philosophy</a>
             <br />
-            <a href="">Press & media</a>
+            <a href="https://zerodha.com/media/">Press & media</a>
             <br />
-            <a href="">Careers</a>
+            <a href="https://careers.zerodha.com/">Careers</a>
             <br />
-            <a href="">Zerodha Cares (CSR)</a>
+            <a href="https://zerodha.com/cares/">Zerodha Cares (CSR)</a>
             <br />
-            <a href="">Zerodha.tech</a>
+            <a href="https://zerodha.tech/">Zerodha.tech</a>
             <br />
-            <a href="">Open source</a>
+            <a href="https://zerodha.com/open-source/">Open source</a>
             <br />
-            <a href="">Referral program</a>
+            <a href="https://zerodha.com/refer/">Referral program</a>
             <br />
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="">Contact us</a>
+            <a href="https://zerodha.com/contact/">Contact us</a>
             <br />
-            <a href="">Support portal</a>
+            <a href="/support">Support portal</a>
             <br />
-            <a href="">How to file a complaint?</a>
+            <a href="https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/how-do-i-create-a-ticket-at-zerodha">How to file a complaint?</a>
             <br />
-            <a href="">Status of your complaints</a>
+            <a href="https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/track-complaints-or-tickets">Status of your complaints</a>
             <br />
-            <a href="">Bulletin</a>
+            <a href="https://zerodha.com/marketintel/bulletin/">Bulletin</a>
             <br />
-            <a href="">Circular</a>
+            <a href="https://zerodha.com/marketintel/circulars/">Circular</a>
             <br />
-            <a href="">Z-Connect blog</a>
+            <a href="https://zerodha.com/z-connect/">Z-Connect blog</a>
             <br />
-            <a href="">Downloads</a>
+            <a href="https://zerodha.com/resources/">Downloads</a>
             <br />
           </div>
           <div className="col">
             <p>Account</p>
-            <a href="">Upcoming IPOs</a>
+            <a href="https://zerodha.com/ipo/">Upcoming IPOs</a>
             <br />
-            <a href="">Brokerage charges</a>
+            <a href="/pricing">Brokerage charges</a>
             <br />
-            <a href="">Market holidays</a>
+            <a href="https://zerodha.com/marketintel/holiday-calendar/">Market holidays</a>
             <br />
           </div>
         </div>

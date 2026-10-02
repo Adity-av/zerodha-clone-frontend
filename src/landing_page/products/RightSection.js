@@ -12,13 +12,13 @@ function RightSection({
           <h1>{productName}</h1>
           <p>{productDescription}</p>
           <div>
-            <a href={learnMore} style={{ textDecoration: "none" }}>
+            {learnMore && <a href={learnMore} style={{ textDecoration: "none" }}>
               Learn More
-            </a>
+            </a>}
           </div>
         </div>
         <div className="col-6">
-          <img src={imageUrl} />
+          {imageUrl && <img src={imageUrl} alt={productName} />}
         </div>
       </div>
     </div>

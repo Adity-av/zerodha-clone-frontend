@@ -11,7 +11,7 @@ function Team() {
       >
         <div className="col-6 p-3 text-center">
           <img
-            src="media/images/nithinKamath.jpg"
+            src="media/images/nithinKamath.jpg" alt="Nithin Kamath"
             style={{ borderRadius: "50%", width: "60%" }}
           />
           <h4 className="mt-5">Nithin Kamath</h4>
@@ -31,7 +31,7 @@ function Team() {
 
           <p>Playing basketball is his zen.</p>
 
-          <p>Connect on <a href="">Homepage</a> / <a href="">TradingQnA</a> / <a href="">Twitter</a></p>
+          <p>Connect on <a href="https://nithinkamath.me/">Homepage</a> / <a href="https://tradingqna.com/u/nithin/summary">TradingQnA</a> / <a href="https://twitter.com/Nithin0dha">Twitter</a></p>
         </div>
       </div>
     </div>
