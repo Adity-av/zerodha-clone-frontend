@@ -6,7 +6,7 @@ import Hero from '../landing_page/home/Hero';
 describe('Hero Component', ()=>{
     test('renders hero image', ()=>{
         render(<Hero/>);
-        const heroImage=screen.getByAltText("Hero Image");
+        const heroImage=screen.getByAltText("Zerodha trading and investing platforms");
         expect(heroImage).toBeInTheDocument();
         expect(heroImage).toHaveAttribute("src", "media/images/homeHero.png");
         
